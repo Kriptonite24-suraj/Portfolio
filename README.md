@@ -1,2 +1,1 @@
-https://kriptonite24-suraj-my-portfolio.netlify.app/
-ReadMe..
+Live wesite ---> https://kriptonite-suraj-personal-portfolio.netlify.app/
